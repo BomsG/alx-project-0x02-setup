@@ -1,4 +1,4 @@
-import Card from "@/components/common/Cards";
+import Card from "@/components/common/Card";
 import React from "react";
 
 const home = () => {
